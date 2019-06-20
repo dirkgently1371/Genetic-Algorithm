@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-Simple Genetic Algorithm Implementation
+Simple Genetic Algorithm MATLAB Implementation
